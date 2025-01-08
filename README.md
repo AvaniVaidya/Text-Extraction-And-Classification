@@ -47,7 +47,7 @@ Follow the steps below to set up the application:
 
    ```bash
    git clone https://github.com/AvaniVaidya/Text-Extraction-And-Classification.git
-   cd your-repository
+   cd Text-Summary-And-Classification
    ```
 
 2. Set up a virtual environment:
