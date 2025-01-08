@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="UTF-8">
+      
+      <!--link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"-->
+      <title>TextSummariser&Classifier</title>
+      <style>
+          .intro{
+            height: 300px;
+            background-image:url('static/images/boat6.jpg');
+            background-repeat: no-repeat;
+            display: block;
+            background-size: 100% 100%
+            }
+
+            ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: black;
+            }
+
+            li {
+            float: left;
+            }
+
+           li a {
+            display: block;
+            padding: 15px;
+           
+            }
+      </style>
+
+      <body>
+        <div class = "intro">
+            <br>
+            <br>
+            <h1 style = "color:white; font: bold; text-align: center;">TEXT EXTRACTION AND CLASSIFICATION</h1>
+            <br>
+            <h2 style = "color: white; text-align: right ; margin-right : 40px; font-size : 30px; font-family : verdana;"><i>Helping you Serve better</i></h2>
+          </div>
+          <div>
+              <ul>
+                  <li><a href = "{{url_for('home')}}" target="_self" style="color: white;font-size: 25px;">About</a></li>
+                  <li><a href = "{{url_for('home1')}}" target="_self" style="color: white;font-size: 25px;">Upload</a></li>
+                  <li><a href = "{{url_for('reportNew')}}" target="_self" style="color: white;font-size: 25px;">Report</a></li>
+              </ul>
+          </div>
+          <div >
+            <br>
+            <h1 style = "color: crimson;font:bold;">ABOUT</h1>
+            <p style = "color:black;font-size:20px"><i>Welcome! Our customers are our priority and a smile on their face is our ultimate goal.Because of online business having a one-to-one conversation with our customers is difficult. Understanding their problems and solving them is our destination. Well, you have reached on a correct website! We will help you to keep your customers satisfied by giving you a gist of what conversation your customer's had with your online service chatbots and further classifying them into one of the problem domain, that is, HELP, FAKE or COMPLAINT. These categorization of your customer conversations will help you to gain insight to the issues faced by the customers the most and also to the fake customers that may harm your business. The reports generated in each category further, would put a light on the specific services within a problem domain your customers need help the most! Thus, our target is to make you satisfied with our services and thus that would help you to grow a greater bond with your happy customers!</i></p>
+          </div>
+          <br>
+          <br>
+          <br>
+
+      </body>
+</html>

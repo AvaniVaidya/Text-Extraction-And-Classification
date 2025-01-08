@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>CategoryResult</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+
+  <style>
+
+table {
+  border-collapse: collapse;
+}
+
+table{
+  border: 1px solid black;
+}
+
+body{
+  height: 170px;
+  background-image:url('static/images/backgroundimage2.png');
+  background-repeat: no-repeat;
+  display: block;
+}
+
+ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: black;
+            }
+
+            li {
+            float: left;
+            }
+
+            li a {
+            display: block;
+            padding: 15px;
+           
+            }
+
+  </style>
+</head>
+<body>
+  <div>
+    <ul>
+        <li><a href = "{{url_for('home')}}" target="_self" style="color: white;font-size: 25px;">About</a></li>
+        <li><a href = "{{url_for('home1')}}" target="_self" style="color: white;font-size: 25px;">Upload</a></li>
+        <li><a href = "{{url_for('reportNew')}}" target="_self" style="color: white;font-size: 25px;">Report</a></li>
+    </ul>
+</div>
+
+  <div>
+    <br><br>
+  <h3 style="color: black;font: bold;font-style: italic;size: 15px;text-align: center;font-size: 30px;">Dear User, the Summary of your text document</h3>
+  <h3 style="font-size: 25px;">{{extractive_summary}}</h3>
+  </div>
+  <br>
+  <br>
+  <div>
+  <h3 style="font-style: italic;text-align: center;font-size: 30px;">Probability</h3>
+  <table>
+   <tr>
+     {% for item in categories %}
+        <th>{{item|safe}}<th>
+    {% endfor %}
+   </tr>
+   <tr>
+     {% for item in probability %}
+        <td>{{item|safe}}<td>
+    {% endfor %}
+   </tr>
+
+  </table>
+  <div>
+  <div>
+  <br>
+  <br>
+  <h3 style="font-style: italic;text-align: center;font-size: 30px;">Your conversation is considered as</h3>
+  <h3 style="font: bold;color: red;font-size: 50px;text-align: center;">{{resultCat}}</h3>
+  </div>
+</body>
+</html>

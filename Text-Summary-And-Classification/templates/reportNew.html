@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Report</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/barStyle.css') }}">
+  <style>
+  img{
+  width:90%;
+  }
+  body{
+  height: 170px;
+  background-color :white
+  background-repeat: no-repeat;
+  display: block;
+}
+
+ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color:black;
+            }
+
+            li {
+            float: left;
+            }
+
+            li a {
+            display: block;
+            padding: 15px;
+           
+            }
+  </style>
+</head>
+<body>
+
+  <div>
+    <ul>
+        <li><a href = "{{url_for('home')}}" target="_self" style="color:white;font-size: 25px;">About</a></li>
+        <li><a href = "{{url_for('home1')}}" target="_self" style="color: white;font-size: 25px;">Upload</a></li>
+        <li><a href = "{{url_for('reportNew')}}" target="_self" style="color: white;font-size: 25px;">Report</a></li>
+    </ul>
+</div>
+
+  <h3>Report</h3>
+  
+<!--<table width="100%" border="1" cellpadding="3">
+
+<tr>
+
+<td align="center"  valign="center">-->
+<div></div>
+<img src="{{url_for('static',filename='FAKEGRAPH.png')}}" alt="FAKE GRAPH" />
+<br />
+FAKE
+</div>
+<!--</td>
+
+<td align="center" valign="center">-->
+<div></div>
+<img src="{{url_for('static',filename='COMPLAINTGRAPH.png')}}" alt="COMPLAINT GRAPH" />
+<br />
+COMPLAINT
+</div>
+<!--</td>
+
+</tr>
+
+<tr>
+
+<td align="center"  valign="center">-->
+<div></div>
+<img src="{{url_for('static',filename='HELPGRAPH.png')}}" alt="HELP GRAPH" />
+<br />
+HELP
+</div>
+
+<!--</td>
+
+
+
+</tr>
+
+</table>-->
+
+</body>
+</html>

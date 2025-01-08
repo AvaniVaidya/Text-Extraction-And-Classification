@@ -1,0 +1,1008 @@
+chat_id,Conversation,Category
+101,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+101,How do I login by  my email id,HELP
+101,Are you a registered user,HELP
+101,Then create an Amazon account,HELP
+101,"okay, how to do that?",HELP
+101,"Go Accounts & Lists, there you will find the sign option",HELP
+101,okay. I cannot find Accounts & Lists,HELP
+101,You will find it besides the search box,HELP
+101,"Okay, Got it!",HELP
+101,Did we solve your problem? ,HELP
+101,"Yes,thankyou",HELP
+102,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+102,How do track where my package is?,HELP
+102,Please Go to Customer Service Option,HELP
+102,Okay. But I am not able to find it,HELP
+102,Please Go to Menu-> Help & Settings,HELP
+102,"Okay,Got it. Now what are the next steps?",HELP
+102,Click on Your Orders and enter your account details,HELP
+102,"Okay,Got it.Thanks",HELP
+102,Did we solve your problem? ,HELP
+102,"Yes,thankyou",HELP
+103,hi!thanks for contacting us. I am Amazon's chathelper,COMPLAINT
+103,I ordered Geo Organic Black Raisins. But you delivered Dates instead. What should I do?,COMPLAINT
+103,Sorry for the inconviencence caused. Do you want to replace or return item?,COMPLAINT
+103,"Yes, I want to replace it.",COMPLAINT
+103,Please provide us your order no,COMPLAINT
+103,408-0889190-7023552,COMPLAINT
+103,Sorry this account is not returnable,COMPLAINT
+103,"Okay,then what should I do?",COMPLAINT
+103,You can select call me or continue shopping,COMPLAINT
+103,"Okay, I will call.",COMPLAINT
+103,You will be receiving a call from our customer care soon,COMPLAINT
+103,Okay,COMPLAINT
+104,hi!thanks for contacting us. I am Amazon's chathelper,COMPLAINT
+104,"hello, I had ordered Philips earphones with mic. But one of the earbuds is not working properly. What to do?",COMPLAINT
+104,Please enter the details of the product,COMPLAINT
+104,Philips SHE1505BK/94 Upbeat earphones,COMPLAINT
+104,Please provide us your order no,COMPLAINT
+104,409-0889180-7123553,COMPLAINT
+104,Do you want to return the item or replace the item?,COMPLAINT
+104,I want to replace the item,COMPLAINT
+104,Please Go to Your orders and select the appropriate item and select the return and replace item option,COMPLAINT
+104,The option has been disabled,COMPLAINT
+104,"Okay , then sorry sir but the item is no longer illegible for return",COMPLAINT
+104,I would like to contact you,COMPLAINT
+104,You will receieving a call from our customer care soon,COMPLAINT
+104,Okay,COMPLAINT
+105,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+105,I am trying to pay through my credit card but it is proecssing for two minutes and then nothing is happening,HELP
+105,Please see to it that you have entered the correct card details,HELP
+105,"Yes, I have rechecked the details but still failure in payment",HELP
+105,Please check whether you have an active netwok connection,HELP
+105,"Yes, I have full network connectivity",HELP
+105,Please close the current tab and follow the payment process steps again,HELP
+105,"Okay, I did as you said but still failure",HELP
+105,How would you like to contact us,HELP
+105,Call me now,HELP
+105,You will be receiving a call from our customer care soon,HELP
+105,"Okay,Thanks",HELP
+106,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+106,I have made a transcation through my credit card and have received a message from the bank that the amount has been deducted,HELP
+106,"Okay,please ellaborate your problem",HELP
+106,"However, the order has not been placed yet. What should I do?",HELP
+106,Can you please try to refresh the current page,HELP
+106,"Yes, tried doing that but still order not placed",HELP
+106,Can you please verify the registered mobile no with your account,HELP
+106,"Yes, the mobile no has been successfully verified",HELP
+106,Okay. Please write an email describing the issue to 3s-reply@amazon.in,HELP
+106,"Okay, But when will the money be refunded?",HELP
+106,"In this case, after verification is successfully done, the refund will be received within 7-10 business days",HELP
+106,"Okay,Thanks",HELP
+107,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+107,I have 350 rs of Amazon Paybalance. But payment through that option is disabled. ,HELP
+107,Please inform your total order amount,HELP
+107,My total order amount is 400 rs,HELP
+107,"Sorry, minimum total order amount to use Amazon Paybalance should be 500rs and above",HELP
+107,Okay. Thanks,HELP
+108,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+108,I want to send the Image of damaged delivered product.Please provide the email address,HELP
+108,Please write an email to 3s-reply@amazon.in,HELP
+108,I tried sending the email but its giving failure to send,HELP
+108,Do you have your email address registered to your Amazon account?,HELP
+108,No. How to do that?,HELP
+108,Please Go to Your Account->Login & Security->Edit email address option,HELP
+108,Okay. Thanks,HELP
+108,Did we solve your problem? ,HELP
+108,Yes,HELP
+109,hi!thanks for contacting us. I am Amazon's chathelper,COMPLAINT
+109,I had ordered Shaun Womens sweater of size small.,COMPLAINT
+109,Okay. How may I help you?,COMPLAINT
+109,But the product that was delivered to me is in size medium. What should I do?,COMPLAINT
+109,Do you want to return the item or replace the item?,COMPLAINT
+109,I would like to replace the item,COMPLAINT
+109,Please Go Your Orders->Select the item-> Click on replace item option,COMPLAINT
+109,Okay. Thanks,COMPLAINT
+109,Did we solve your problem? ,COMPLAINT
+109,Yes,COMPLAINT
+110,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+110,I want to order Cello Jotdot Ball pen but the Buy Now option is disabled,HELP
+110,"Sorry , in this case the product may be out of stock",HELP
+110,Okay. What should I do?,HELP
+110,You can select the Add to wishlist option,HELP
+110,Okay. How long will it take for the product to be back in stock?,HELP
+110,Okay. Thanks,HELP
+110,Did we solve your problem? ,HELP
+110,Yes,HELP
+111,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+111,I want to order Post-it color notes. ,HELP
+111,Okay. How may I help you?,HELP
+111,But the cash on delivery option is disabled,HELP
+111,Please inform your total order amount,HELP
+111,My total order amount is 45 rs,HELP
+111,"Sorry, cash on delivery is applicable to orders above 150 rs",HELP
+111,"Okay ,Thanks",HELP
+111,Did we solve your problem? ,HELP
+111,Yes,HELP
+112,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+112,I had placed an order but the missed the delivery. Whom should I contact?,HELP
+112,Please Go to Let us help you section->Select the help option,HELP
+112,I am unable to find the Let us help you section,HELP
+112,It is present at the buttom of the page,HELP
+112,"Okay ,Got it. What to do next?",HELP
+112,There will be a list of courier service and their contact numbers,HELP
+112,Okay I want to contact to the delivery guy,HELP
+112,Please check for the message or email address mentioning the contact number of the delivery person,HELP
+112,"Okay, but they got deleted by mistake by me",HELP
+112,How would you like us to contact you?,HELP
+112,Call me now,HELP
+112,Okay.You will be receiving a call from our customer service soon,HELP
+112,"Okay,Thanks",HELP
+113,hi!thanks for contacting us. I am Amazon's chathelper,COMPLAINT
+113,hello. I had ordered the book- The Palace of Illusions by Chitra Banerjee Divakaruni.,COMPLAINT
+113,"Okay,please ellaborate your problem",COMPLAINT
+113,But I still haven't received it yet.,COMPLAINT
+113,Please inform your order no and order date,COMPLAINT
+113,Order date is 28th November and order no is 410-0189180-7924553,COMPLAINT
+113,Please inform the estimated time arrival specified to you,COMPLAINT
+113,The estimated arrival time was 2nd December,COMPLAINT
+113,Sorry for the inconviencence caused. But we will look into it and you will receive an email soon,COMPLAINT
+113,"Okay, Thanks",COMPLAINT
+113,Did we solve your problem? ,COMPLAINT
+113,Yes,COMPLAINT
+114,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+114,I want to pay for my order through Digital Payment methods,HELP
+114,"Okay,please ellaborate your problem",HELP
+114,I wanted to ask if we can pay  by more than one credit or debit card for one Amazon order',HELP
+114,"Sorry, but you can pay by only one credit or debit card for one Amazon order",HELP
+114,"Okay, Thanks",HELP
+114,Did we solve your problem? ,HELP
+114,Yes,HELP
+115,hi!thanks for contacting us. I am Amazon's chathelper,COMPLAINT
+115, I had ordered one Dry State Women's tshirt in color black,COMPLAINT
+115,"Okay,please ellaborate your problem",COMPLAINT
+115,But instead I received it in color Burgundy. What should I do?,COMPLAINT
+115,Sorry for the inconviencence caused. Do you want to replace or return item?,COMPLAINT
+115,I want to replace the item,COMPLAINT
+115,Please Go to Your orders and select the appropriate item and select the return and replace item option,COMPLAINT
+115,"Okay, Got it!",COMPLAINT
+115,Did we solve your problem? ,COMPLAINT
+115,Yes. What will be the next steps?,COMPLAINT
+115,Soon you will get an email from Amazon Customer Service.,COMPLAINT
+115,Okay. What is the estimated time for the delivery guys to pick the parcel for replace?,COMPLAINT
+115,The estimated time for pick up for replacing item is 2-3 Days.,COMPLAINT
+115,"Okay,Thanks",COMPLAINT
+115,Did we solve your problem? ,COMPLAINT
+115,Yes,COMPLAINT
+116,hi!thanks for contacting us. I am Amazon's chathelper,COMPLAINT
+116,Hello. I had ordered a tshirt of scarlet red. But the delivered product's color is not the same as the picture provided on the site,COMPLAINT
+116,Please provide us your order no,COMPLAINT
+116,408-0889190-9023457,COMPLAINT
+116,Do you want to return the item or replace the item?,COMPLAINT
+116,I want to return the item,COMPLAINT
+116,Sorry but this order is not returnable,COMPLAINT
+116,why?,COMPLAINT
+116,Order can be returned within 2-3 business day. But this order time is exceeding,COMPLAINT
+116,Okay. What should I do next?,COMPLAINT
+116,Sorry for the inconvinience caused. ,COMPLAINT
+116,Did we solve your problem? ,COMPLAINT
+116,No.,COMPLAINT
+117,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+117,I want to login to my Amazon account but I have forgotten my password,HELP
+117,Please click on Forgot Password option given below,HELP
+117,Okay,HELP
+117,Follow the instructions given. You may be asked to enter a CAPTCHA,HELP
+117,Yes. Got it. But the CAPTCHA is not getting verified. What should I do?,HELP
+117,Please select the option contactus given and select Call Customer Service,HELP
+117,Okay,HELP
+117,Soon you will get a call from Amazon Customer Service.,HELP
+117,Okay,HELP
+117,Did we solve your problem? ,HELP
+117,Yes,HELP
+118,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+118,I have forgotten my Amazon account password,HELP
+118,Please click on Forgot Password option given below,HELP
+118,Okay. I entered the CAPTCHA. Then what should I do?,HELP
+118,If you have registered by your email address you will an email for password reset,HELP
+118,Okay. But I have registered through my mobile no,HELP
+118,Okay then you will get a SMS for password reset ,HELP
+118,okay,HELP
+118,Did we solve your problem? ,HELP
+118,Yes,HELP
+119,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+119,I had ordered Women Tshirt of size medium,HELP
+119,"Okay,please ellaborate your problem",HELP
+119,But I want it in size small,HELP
+119,Okay. Do you want to replace item or return item?,HELP
+119,I want to replace the item. What should I do?,HELP
+119,Please Go to Your orders and select the appropriate item and select the return and replace item option,HELP
+119,Okay. Got it.What is estimated time for pick of the parcel ?,HELP
+119,You will get a notification on your registered email address or mobile no. It is 2-3 days,HELP
+119,"Okay,Thanks",HELP
+119,Did we solve your problem? ,HELP
+119,Yes,HELP
+120,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+120,hello. I want to order Devsignature Sheesham Wood 4 Seater Dining table,HELP
+120,"Okay,please ellaborate your problem",HELP
+120,I want to ask does provide funiture assembly,HELP
+120,Installation services are provided by Amazon,HELP
+120,What I have to do to use those services?,HELP
+120,Schedule installation in a time-slot as per your convenience ,HELP
+120,Okay. Are additional charges applied for installation?,HELP
+120,Additional charges are not applied.,HELP
+120,"Okay,Thanks",HELP
+120,Did we solve your problem? ,HELP
+120,Yes,HELP
+121,hi!thanks for contacting us. I am Amazon's chathelper,HELP
+121,Hi. I want to order a sofa set for living room.,HELP
+121,"Okay,please ellaborate your problem",HELP
+121,I want to ask whether funiture assemly is provided by Amazon?,HELP
+121,Users can avail installation services of Amazon,HELP
+121,What is included in these services?,HELP
+121,Assembly of the product at the preferred location and as per the illustrative diagram provided with the product,HELP
+121,Okay. When is the installation done?,HELP
+121,Schedule installation in a time-slot as per your convenience ,HELP
+121,"Okay,Thanks",HELP
+121,Did we solve your problem? ,HELP
+121,Yes,HELP
+122,Om Jewells Rose Gold Plated Pink Flowers Link Chain Adjustable Size Charm Bracelet Decorated with Crystals for Girls and Women BR1000009.Is this what you need help with?,COMPLAINT
+122,"Yes, that's correct",COMPLAINT
+122,"Our records show that this item was delivered on Sat, Oct 12.How can I help you with this?",COMPLAINT
+122,Return or exchange,COMPLAINT
+122,"Unfortunately, this item can't be returned or exchanged now.Please read the returns policy for more details.",COMPLAINT
+122,Need any more help with this?,COMPLAINT
+122,"Yes, need more help",COMPLAINT
+122,I want to return it anyhow,COMPLAINT
+122,As I can check the return window has been expired Shruti .,COMPLAINT
+122,May I know that much delay in contacting us ?,COMPLAINT
+122,I am using it now.,COMPLAINT
+122,May I know then why you have to return this ?,COMPLAINT
+122,Its quality is low. Not worthy of price,COMPLAINT
+122,The return window has been expired Shruti .You cannot return this product now .You can contact manufacturer regarding this product .,COMPLAINT
+123,How to use amazon pay,HELP
+123,Could you please elaborate it ?,HELP
+123,Where can I use amazon pay,HELP
+123,What is the procedure for using it,HELP
+123,Allow me a moment Shipra .,HELP
+123,ok...fine,HELP
+123,"For that Shipra .First you have to complete your Minimum KYC .Then your Amazon Pay limit will be 10,000.",HELP
+123,Where can I use it,HELP
+123,"You can use it while recharging mobile , third party apps , placing an order , bill payments .",HELP
+123,ok,HELP
+123,Moreover you can recieve your cashback on Amazon Pay .,HELP
+123,Gift card redemption on Amazon Pay Balance Shruti .,HELP
+123,Could you please complete your Amazon Pay KYC ?,HELP
+123,Later,HELP
+123,Okay Shipra,HELP
+123,You can even use it for bank transactions,HELP
+123,Ok,HELP
+123,Thanks,HELP
+124,"Hello, can you me with a query?",HELP
+124,"Hi, my name is harshini. I'll be happy to help you. Good evening ",HELP
+124,good evening ,HELP
+124,Is there a way to pay using UPI?,HELP
+124,yes you will be getting the option in the payment page ,HELP
+124,"I’m unable to find the option...could you please guide me?
+",HELP
+124,"this is the normal method .select the order and place that in the payment page you will get the option 
+",HELP
+124,Ok I will try again....thanks,HELP
+124,yes okay please try that,HELP
+125,Is there anything else I can do for you today?,HELP
+125,How can I unsubscribe from mails about sales and other promotions?,HELP
+125,"Go to E-mail Preferences & Notifications. Select Do not send me marketing e-mail.Click Save.
+",HELP
+125,Ok thanks,HELP
+126,Hello . I am Chinmay . I would be glad to  help you today !,HELP
+126,Can I book ticket for another person?,HELP
+126,Yes you can book ticket for anyone you want to.,HELP
+126,"And what is maximum number of tickets that I can book at a time?
+",HELP
+126,You can book 10 ticket at once.,HELP
+126,ok thanks,HELP
+127,Are there any discount offer on food order?,HELP
+127,There are some specific discounts given to particular users you need to check them with your app ,HELP
+127,Please go to your Amazon pay then you can find food offers there in a tab there all food related offers will be given to you,HELP
+127,Ok thanks,HELP
+128,Is there any feature to get notifications on new movie arrival or to set notification for specific movie when booking is open for same?,HELP
+128,I am so sorry that feature is going to be there soon. We are trying to improve our services.,HELP
+128,Ok thanks,HELP
+128,This feature will be available in near future.,HELP
+128,Ok,HELP
+129,Hello! My name is  Prachi.  How can I help you?,COMPLAINT
+129,I have received a wrong order. And I want to be contacted immediately.,COMPLAINT
+129,we have a concerned team to help you in this regard.,COMPLAINT
+129,Please help me with your contact number to arrange the call right away.,COMPLAINT
+129,ok,COMPLAINT
+130,Hello! My name is  Prachi.  How can I help you?,HELP
+130,How can I use amazon pay to order food?,HELP
+130,You have to install the amazon app and then add money to your account using amzon code.,HELP
+130,But I’m unable to add money to it,HELP
+130,I'll guide you,HELP
+130,Go to amazon pay,HELP
+130,Click on add money,HELP
+130,And add the money,HELP
+130,Ok Let me check,HELP
+130,"Yes. You can check and confirm  me.
+",HELP
+130,It is asking to do KYC to proceed,HELP
+130,"You can complete your KYC,upload the document. And then you can add the money",HELP
+130,Ok thanks,HELP
+130,I hope I was able to provide you the resolution. ,HELP
+131,Hello. How can I help you?,HELP
+131,How long will it take to complete the KYC process?,HELP
+131,It will take 3 business days,HELP
+131,Ok,HELP
+131,"You can also visit www.amazon.in/kyc to fix appointment for KYC.Is that okay?
+",HELP
+131,Yeah....thanks,HELP
+132,Can you tell me about the EMI?,HELP
+132,Are you referring to amazon pay emi?,HELP
+132,We have enabled this option for a limited set of customers. We are working with our lending partner on improving the experience before expanding the customer base. We appreciate your patience.,HELP
+132,"Please visit the URL www.amazon.in/amazon-pay-emi/FAQs and go to the section Amazon Pay EMI Registration, for detailed instructions on the registration process. ",HELP
+132,Yeah sure...thanks,HELP
+133,Hello. Hope you are doing good,FAKE
+133,Harshitha here to assist you.,FAKE
+133,Are the reviews all true or are some of them posted by fake customers either to defame or to increase the attraction?,FAKE
+133,No they are true,FAKE
+133,The reviews in the website are provided by the genuine customers as per their satisfaction of the products and our services,FAKE
+133,So no need to worry we always serve our customers with best products and good services ,FAKE
+133,How much can I rely on them while selecting the item?,FAKE
+133,No need to worry on this we will always try to serve our customers with the best and good products.,FAKE
+134,The user interface is very difficult to understand and I’m unable to find the required features easily,FAKE
+134,It takes too long to find the required feature,FAKE
+134,May I know about which item you are concerned about ?,FAKE
+134,"Not about the items....but about other features like food, hotel room bookings, help section and similar features are very small in size and are all jumbled in between offers and shopping items",FAKE
+134,We will take this as a feedback and back office will work on this and will try to develop the features and will get back to you very soon with advanced features .,FAKE
+134,OK,FAKE
+135,Could you help me to find the wish list added items?,HELP
+135,Actually I wanted to check items in my wish list....where can I find that?,HELP
+135,Go to Your account>Ordering and shopping preferences>Lists,HELP
+135,Ok I got it,HELP
+136,HP FD236W 32GB USB 2.0 Pen Drive (Gray),HELP
+136,Is this what you need help with?,HELP
+136,"Yes, that's correct",HELP
+136,"Our records show that this item was delivered on Sun, Aug 18.",HELP
+136,How can I help you with this?,HELP
+136,Need cashback details,HELP
+136,"Generally, Amazon Pay cashback is credited as soon as we send your order.",HELP
+136,"Sometimes, it may take up to 15 days for the cashback to come.",HELP
+136,See cashback credits,HELP
+136,"Sure, I'll take you to your Amazon Pay balance statement. Please look for 'Cashback received' or 'Added Money', OK?",HELP
+136,OK,HELP
+136,We’ll also post updates in Your Orders. I will always be here to help you.,HELP
+136,Thanks for contacting Amazon. Keep smiling!,HELP
+137,Hey help me find similar item with this range,HELP
+137,Hi! I'm Lavanya. I'll be glad to assist you today! ,HELP
+137,"Good evening,Have a nice day:)",HELP
+137,"I understand that you want to purchase the item,No need to worry,I'll help you in this case.",HELP
+137,May I know the item name?,HELP
+137,Hair Straightener,HELP
+137,Have you added that item in your cart?,HELP
+137,No the one in my order history,HELP
+137,Philips HP8141/00 Dryer (Pink)  ,HELP
+137,Order No: 404-2067699-0505901,HELP
+137,Yes along with hair straightener,HELP
+137,May I know the range?,HELP
+137,1000-2000,HELP
+137,Let me check that for you.,HELP
+137,Please give me 2 minutes.I am checking this for you.,HELP
+137,Ok,HELP
+137,"https://www.amazon.in/s?k=hair+straightener+and+dryer+combo&i=hpc&crid=TLAEM24ERUCO&sprefix=hair+straghtener+and+dryer%2Chpc%2C375&ref=nb_sb_ss_sc_1_26
+Kindly copy and paste the above link to view the details further.
+https://www.amazon.in/Philips-Straightener-Black-Dryer-Purple/dp/B07MTVPW1K/ref=sr_1_3?crid=TLAEM24ERUCO&keywords=hair+straightener+and+dryer+combo&qid=1576584401&s=hpc&sprefix=hair+straghtener+and+dryer%2Chpc%2C375&sr=1-3
+",HELP
+137,Ok thank you,HELP
+137,"Philips Straightener (Black) & Dryer (Purple) Combo. Combo Price  is Rs  1,799.00",HELP
+138,Help me to know warranty of HP FD236W 32GB USB 2.0 Pen Drive (Gray)  ,HELP
+138,HP FD236W 32GB USB 2.0 Pen Drive (Gray) .Order No: 407-5345116-9110742. Is this the item?,HELP
+138,Yes,HELP
+138,I have see that it has 2 year warranty provided by the manufacturer from date of purchase,HELP
+138,ok thank you,HELP
+138,You're most welcome!? ,HELP
+139,What do you need help with?,FAKE
+139,"Managing my account, Prime, or gift cards",FAKE
+139,Which of these things do you need help with?,FAKE
+139,Check my login & security details,FAKE
+140,What do you need help with?,HELP
+140,"Managing my account, Prime, or gift cards",HELP
+140,Which of these things do you need help with?,HELP
+140,Payments & gift cards,HELP
+140,"Do you need help with your payment options, or a gift card you received?",HELP
+140,Amazon gift card,HELP
+140,How can I help you with your Amazon gift card?,HELP
+140,Help adding a gift card,HELP
+140,"OK, have you tried to add your gift card to your account yet?",HELP
+140,"Yes, but it's not working",HELP
+140,"OK, the Amazon Pay Gift Cards page may help solve your problem. Should I take you there?",HELP
+140,"Yes, take me there",HELP
+141,What do you need help with?,FAKE
+141,"Managing my account, Prime, or gift cards",FAKE
+141,Which of these things do you need help with?,FAKE
+141,Update or cancel Prime,FAKE
+141,"OK, I'll connect you with someone who can help you out right now.",FAKE
+141,"No, thanks",FAKE
+142,What do you need help with?,FAKE
+142,"Kindle, Fire, or Alexa devices",FAKE
+142,"OK, which Amazon device do you need help with?",FAKE
+142,Kindle e-reader,FAKE
+142,"So, what can I help you with?",FAKE
+142,Kindle books sync and download,FAKE
+142,I'm sorry to hear that. All Kindle books you've purchased from the Kindle Store are stored in your content library on Amazon.com.,FAKE
+142,"If your content has not downloaded to your device, confirm that your device is connected wirelessly first.",FAKE
+142,I can't get it connected,FAKE
+142,"Sure, I’ll get someone who can help you with that.",FAKE
+142,Not right now,FAKE
+142,Okay then when should we contact you?,FAKE
+142,No I don’t have time. I am very busy all the time.,FAKE
+143,What do you need help with?,FAKE
+143,"Kindle, Fire, or Alexa devices",FAKE
+143,"OK, which Amazon device do you need help with?",FAKE
+143,Fire TV,FAKE
+143,"Sure, I’ll get someone who can help you with that.",FAKE
+143,Not right now,FAKE
+144,What do you need help with?,HELP
+144,"Prime Music, eBooks, Prime Videos, etc.",HELP
+144,"OK, which of these things do you need help with?",HELP
+144,Kindle books or subscriptions,HELP
+144,"So, what can I help you with?",HELP
+144,Return a kindle book,HELP
+144,"Sure, items that you bought from the Kindle Store can be returned within the seven days.",HELP
+144,"I'll take you to the Manage Your Content and Devices page. From there, simply click on the [...] button under the Actions column, and then pick Return for Refund.",HELP
+144,"OK, go to Manage Content",HELP
+145,Need help with anything else?,FAKE
+145,"Yes, I do",FAKE
+145,What do you need help with?,FAKE
+145,"Managing my account, Prime, or gift cards",FAKE
+145,Which of these things do you need help with?,FAKE
+145,Question about a fee or payment,FAKE
+145,"Sure, I’ll get someone who can help you with that.",FAKE
+145,Not right now,FAKE
+146,What do you need help with?,FAKE
+146,How are you?,FAKE
+146,Hi! Thanks for contacting us. I'm Amazon's chat helper.,FAKE
+147,What do you need help with?,FAKE
+147,Who are you?,FAKE
+147,"I'm Amazon's messaging assistant, and I can help with your orders.",FAKE
+147,"If I can't answer your question, I'll get an associate for you.",FAKE
+148,What do you need help with?,FAKE
+148,How is your service better than myntra?,FAKE
+148,How would you like us to contact you?,FAKE
+148,"No, thanks",FAKE
+149,"Hello, I am Siddharth, How can I help you today?",HELP
+149,"Hello, please help me to add items to cart",HELP
+149,Have you selected the items of your choice?,HELP
+149,Yes,HELP
+149,Okay.,HELP
+149,Is there option 'Add to cart' for a particular item?,HELP
+149,Yes,HELP
+149,Okay.,HELP
+149,Please click on 'Add to cart' for every item so that it can be added in items to cart list.,HELP
+149,ok thank you,HELP
+150, Is there anything else I may help you with?  ,HELP
+150,What are your return policies ?,HELP
+150,Let me check.,HELP
+150,Let me help you with the link for Return policy.,HELP
+150,Please visit here https://www.amazon.in/gp/help/customer/display.html/ref=help_search_1-2?ie=UTF8&nodeId=202111910&qid=1576586070&sr=1-2,HELP
+150,ok I will check...thank you,HELP
+151,"Hello Manasi, Welcome to Amazon! Hope you are doing well! happy to assist you today!",HELP
+151,Does amazon offer cash on delivery on discounted products,HELP
+151,Yes it is available on almost of the product depending upon seller and product.,HELP
+151,Ohh..nice,HELP
+151,Please let me know if you need any further information,HELP
+151,Thanks,HELP
+152,May I assist you,HELP
+152,Yes Please,HELP
+152,Please ask me,HELP
+152,I will be happy to help you,HELP
+152,What is amazon prime,HELP
+152,"All Amazon Prime members receive multiple benefits including FREE one-day/two-day/Scheduled/Standard delivery, discounted same-day/morning delivery at Rs. 50, along with early/exclusive access to lightning deals",HELP
+152,"Amazon Prime benefits, applicable on all Prime Eligibleitems.",HELP
+152,For more information please visit: https://www.amazon.in/gp/help/customer/display.html/ref=hp_bc_nav?ie=UTF8&nodeId=202042440,HELP
+152,isn't it media service provider?,HELP
+152,Sorry I didn't get you.,HELP
+152,Please Explain,HELP
+152,Are there videos and web series,HELP
+152,Yes Amazon prime provides prime videos and music,HELP
+152,OK,HELP
+152,"FREE fast delivery, videos, music & more.",HELP
+152,ok,HELP
+152,"Please let me know if need any further information or you have any more queries, I will be happy to help you.",HELP
+153,"Is there anything, may I assist you with?",HELP
+153,How to book flights on amazon prime,HELP
+153,"Sure, just a moment please.",HELP
+153,Thank you for your patience!,HELP
+153,You can access Flight tickets booking option on Amazon from the Amazon Pay dashboard or by searching Flight booking in the product search bar.,HELP
+153,"Once you’ve reached the booking screen, follow the on-screen instructions.",HELP
+153,Please be noted that you’ll have to login to your account in order to proceed with the booking.,HELP
+153,Here is the link to book the flight: https://www.amazon.in/gp/sva/dashboard?ref_=nav_apay,HELP
+153,Thanks,HELP
+154,Do you have any queries please let me know I will help you with my best effort.,COMPLAINT
+154,I have a complaint about delivery time,COMPLAINT
+154,I will surely help you on it.,COMPLAINT
+154,Please let me know the issue.,COMPLAINT
+154,Delivery time was not folllowed,COMPLAINT
+154,Please do not worry I am taking a note on it and I assure you we will sincerely take care on this regard.,COMPLAINT
+154,It is my earnest request to accept my sincere apology for the inconvenience you have faced regarding delivery issue.,COMPLAINT
+154,Fine,COMPLAINT
+154,Please let me know if you have any more concern with Amazon,COMPLAINT
+155,May I help you?,HELP
+155,Is grocery available on Amazon,HELP
+155,Yes it is available.,HELP
+155,There is another section called Amazon Pantry.,HELP
+155,Here you will find all the pantry products: https://www.amazon.in/b/ref=pntry_wayfind_logo?node=9574332031,HELP
+155,ok... Delivery Rates?,HELP
+155,"Free delivery will be available on a Pantry order worth Rs. 599 or more, to all customers.",HELP
+155,"To checkout with Amazon Pantry order, you will need to add Pantry items worth minimum Rs. 200 to your Cart.",HELP
+155,Amazon Pantry orders with next day and scheduled delivery will be delivered to Non-Prime members at a flat delivery charge of Rs. 59 and for Prime members at a flat delivery charge of Rs. 30.,HELP
+155,**The lowest price guarantee offer is applicable only on select products and those products can be found here: https://amzn.to/2tBJPxA,HELP
+155,ok,HELP
+156,Please let me know if you need any information on Amazon.,HELP
+156,How to use amazon filters while searching for products,HELP
+156,Just a moment please,HELP
+156,Thank you for your kind cooperation.,HELP
+156,There are various filter you can apply is categories wise to search your desired product without wasting any time.,HELP
+156,In the left side of the Amazon home page click on 3 dash line to search your item using categories.Or by Full Store Directory.,HELP
+156,"You can find the filters like, price, specification, ratings, brands, used/new/renewed, discount, seller, availability, etc.",HELP
+157,Do you have any queries please let me know?,HELP
+157,yes,HELP
+157,is google pay available for payments on amazon,HELP
+157,Yes you can place an order using any UPI id.,HELP
+157,Do you have any more queries please let me know,HELP
+157,Even Phonepe is Available?,HELP
+157,"Yes you can using other UPI like, PhonePe, Gpay, Bhim Pay, etc..",HELP
+157,Please feel free to ask if need any further information.,HELP
+157,Sure..,HELP
+158,"Hello, Good evening ! How are you doing today? Aayush here to help you today(???).",COMPLAINT
+158,How may I assist you Anamika?,COMPLAINT
+158,The tab cover I had ordered is of very low quality,COMPLAINT
+158,I am sorry that you received a low quality product.,COMPLAINT
+158,"Don't worry, I will help you with this.",COMPLAINT
+158,"Estimated Delivery Date: Saturday 27 July 2019 
+May I know why you haven't contacted us these many days?",COMPLAINT
+158,Its parts are separated... in one month only,COMPLAINT
+158,Thanks for confirming,COMPLAINT
+158,?I'm sorry for the inconvenience you've experienced in this case.,COMPLAINT
+158,Our primary objective is to offer convenient service to our customers. I'm sorry it wasn't the case this time.,COMPLAINT
+159,Hello Himaja I'm Rohit.,HELP
+159,How may I assist you?,HELP
+159,What is gift card,HELP
+159,Gift card is basically a voucher or amount which is added to amazon pay.,HELP
+159,So there is two kinds of gift cards.,HELP
+159,Physical Gift card and online gift cards.,HELP
+159,What information you need regarding gift card exactly?,HELP
+159,I want to know about gift cards,HELP
+159,So what exactly you want to know?,HELP
+159,What is the concept of gift card... is it a greeting card...like we give at birthdays,HELP
+159,Basically it's kind of Greeting but the person can use that amount for shopping at amazon.,HELP
+159,So there is amount in Gift which the person can use it for shopping at Amazon.,HELP
+159,Would that be fine?,HELP
+159,Yeah,HELP
+160,"???Hello! This is Navina, I'm glad to help you always. Hope you are doing Great!",COMPLAINT
+160,Could you please tell me what is the issue so that i can help you with that :),COMPLAINT
+160,Scrolling for items is very frustrating,COMPLAINT
+160,And relevant items are not in the search bar,COMPLAINT
+160,"Ojal, are you referring to the amazon website",COMPLAINT
+160,Every time I have to press the next button,COMPLAINT
+160,Yes,COMPLAINT
+160,its the website,COMPLAINT
+160,Can't you give continuous scrolling,COMPLAINT
+160,"Ojal, i m really sorry that the website is not good to use. in this case, i will take this issue to the website design team",COMPLAINT
+160,and they will discuss and for sure make the changes,COMPLAINT
+160,"Ojal, i want to thank you for this",COMPLAINT
+160,you are taking a step ahead and helping us also,COMPLAINT
+160,you too became an amazonian :),COMPLAINT
+160,so nice of you Ojal !,COMPLAINT
+160,Thank you so much for letting this issue to u,COMPLAINT
+160,Me and my team will take care so this,COMPLAINT
+160,"If anyone deserves thanks, it's you :)",COMPLAINT
+161,How can I help you,HELP
+161,"Can you tell mi how to save multiple credit cards, So I can use them directly
+",HELP
+161,"Shriya, please do wait",HELP
+161,let me guide you,HELP
+161,Your Account › Manage Payment Methods there you can add the card details which you are in need of,HELP
+161,https://www.amazon.in/cpe/managepaymentmethods?ref_=ya_d_c_pmt_mpo&,HELP
+161,ok,HELP
+161,Thank you for understanding patiently.??,HELP
+162,What is Manage subscribe and save.How to use it,HELP
+162,"Jagruti, subscribe is an new option",HELP
+162,for example,HELP
+162,"if you want hair oil for all month or two month once or three month once, you can select the order and save and subscribe",HELP
+162,so that without placing the order for every month,HELP
+162,you will get the item delivered to you on the date selected,HELP
+162,Was that understandable? If not I can still help you.,HELP
+162,Yes,HELP
+162,What about payment,HELP
+162,"for that you can avail any pre-paid methods like amazon pay, card, net banking etc for some item there is a CoD options also available",HELP
+162,Okkk,HELP
+163,How can help you,COMPLAINT
+163,There are same products available for the same price,COMPLAINT
+163,Its difficult to deal with them,COMPLAINT
+163,"Gauri, please do look at the manufacture and the seller for the item. if still you have a doubt which to buy, please do look at the customer review of the item",COMPLAINT
+163,so that would help you,COMPLAINT
+163,But its very confusing,COMPLAINT
+163,and time consuming,COMPLAINT
+163,its not that user convinient,COMPLAINT
+163,thank you so much for the valuable feedback,COMPLAINT
+163,we will take this to the team,COMPLAINT
+163,You must.... its annoying,COMPLAINT
+163,Yes Gauri,COMPLAINT
+163,I can understand that as well,COMPLAINT
+163,we will for sure work on this,COMPLAINT
+164,please tell me,HELP
+164,i will help you,HELP
+164,Does amazon provide full refund on items,HELP
+164,"Himaja, if the item is damaged in transit or the customer wants to return and get the refund there is 100 % full refund from amazon always",HELP
+164,we do not get money for cancellation,HELP
+164,we will give full refund always,HELP
+164,What about delivery Charges,HELP
+164,"Himaja, if the item is amazon fulfilled and more than Rs. 499.00 you will get 0 delivery changes. if it is less than Rs. 499.00 you will be charged less that Rs 50.00 for the order .if that was the seller fulfilled order , you will get the delivery charge based on the seller and the product.",HELP
+165,How may I help you Akash,COMPLAINT
+165,Your delivery service is pathetic,COMPLAINT
+165,My friend ordered iphone and got Soap instead,COMPLAINT
+165,How come that could even happen,COMPLAINT
+165,"Akash, I m really sorry for that. There is a separate investigation team for this. so please do not worry about the. in this case, we will not play with the customer money,we will either help with the refund, replacement or exchange of the order After that a team will undergo the investigation with the courier service and then they will be removed from amazon for sure",COMPLAINT
+165,all the movement is monitored,COMPLAINT
+165,please be assured that your money will not be played in amazon,COMPLAINT
+165,Okay.. if you say so,COMPLAINT
+165,"Akash, trust amazon because amazon is the best customer centric e-commerce in world :)",COMPLAINT
+166,"Hello,Sharvari. Good Evening How are you today?",HELP
+166,Well,HELP
+166,Can you tell me the procedure for ordering the cheapest smart watch with warranty,HELP
+166,you just need to search the product on your preferred price,HELP
+166,and check the warranty details on the product page while placing the order,HELP
+166,ok,HELP
+166,But will it be the cheapest,HELP
+166,https://www.amazon.in/Upreale-Bluetooth-Touchscreen-Multifunctional-Support/dp/B07ZZ3VVP9/ref=sr_1_16?crid=2R5A14126JIAO&keywords=smart+watches+for+girls&qid=1576593012&sprefix=smart%2Caps%2C298&sr=8-16,HELP
+166,you can check the product by the above mentioned link,HELP
+166,ok,HELP
+166,Thanks,HELP
+167,Hi Vaishnavi. How may I help you,HELP
+167,I want to know if all the orders are exchangable on Amazon,HELP
+167,it depends on the product category,HELP
+167,So How would I know,HELP
+167,If the item is exchangable,HELP
+167,return polices are mentioned on the product page you can check,HELP
+167,ok,HELP
+168,"Hi Manasi, Good morning",HELP
+168,How can I help you,HELP
+168,What is the procedure for online payments,HELP
+168,you can pay through the net banking . debit card . credit card . amazon pay . cash on delivery,HELP
+168,How to use credit cards on amazon,HELP
+168,you just need to go thorough with the normal product placing process,HELP
+168,system will ask you to select the payments options,HELP
+168,ok,HELP
+168,you can select the credit card option,HELP
+168,If you still think i have missed something please let me know i will glad to help you,HELP
+168,no... thats ok,HELP
+169,"Hello Gayatri, Pleasure to assist you.",COMPLAINT
+169,How can I help you,COMPLAINT
+169,I don't trust the veracity of the product bought online,COMPLAINT
+169,The pen I bought is very bad,COMPLAINT
+169,Your system is not good,COMPLAINT
+169,i would like to inform you that every product have there return window if you contact us with in the return window we surely help you with the refund or replacement as per your prefer choice,COMPLAINT
+169,No... the return window is expired,COMPLAINT
+169,"yes Gayatri, your return window was Expired on November 11, 2019",COMPLAINT
+170,"Hii Meet, Good Morning",HELP
+170,How can I help you,HELP
+170,I want to know about the details for managing account settings,HELP
+170,may i know which settings you want to manage ?,HELP
+170,Email and security,HELP
+170,https://www.amazon.in/ap/cnep?openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fyour-account&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&,HELP
+170,you can edit your email name mobile number by above mentioned link,HELP
+170,your account > login & security,HELP
+170,ok,HELP
+170,Is That it?,HELP
+170,yes you can edit your mail or mobile by there,HELP
+170,and also click on your account you can manage you account setting by there,HELP
+170,K,HELP
+171,Hello Mayuri,COMPLAINT
+171,May I know the issue,COMPLAINT
+171,yes,COMPLAINT
+171,I am not able to login on my smartphone,COMPLAINT
+171,You are not able to login in the amazon account Mayuri?,COMPLAINT
+171,No,COMPLAINT
+171,May i know the excat issue Shruti?,COMPLAINT
+171,On my smartphone it is giving error,COMPLAINT
+171,Is the issue related to the amazon issue?,COMPLAINT
+171,Yes,COMPLAINT
+171,"I am using the same password,but it is not logging me in",COMPLAINT
+171,Okay Shruti when you will login there it will show forget password,COMPLAINT
+171,Please try with that,COMPLAINT
+171,Please press forget password and change the password,COMPLAINT
+171,And set a new password,COMPLAINT
+171,So that you can login again,COMPLAINT
+171,May i know have done with this forget password?,COMPLAINT
+171,Yes,COMPLAINT
+171,I have done that,COMPLAINT
+171,May i know what error it is showing when you have pressed Forget password?,COMPLAINT
+171,I don't know,COMPLAINT
+171,Its just showing failed attempt,COMPLAINT
+171,and press forget password Then it will ask Old password .Please type old password which you have remembered,COMPLAINT
+171,Please contact us we will help you or we will connect to our concern team regarding this,COMPLAINT
+171,And please make sure there should be balance in the required sim which number you have given to the account,COMPLAINT
+171,To that account you may get OTP in some cases,COMPLAINT
+171,Thank you so much for understanding with your kind heart.,COMPLAINT
+172,How can I help you,HELP
+172,Do you provide 3 hour delivery,HELP
+172,can you please confirm us the order you refereeing to ?,HELP
+172,i am asking in general,HELP
+172,yes we do Shruti,HELP
+172,on which products,HELP
+172,on pantry and amazon fresh products,HELP
+172,ok,HELP
+173,"hi , how may I help you?",COMPLAINT
+173,i am not satisfied with the way you pack your product,COMPLAINT
+173,i once received a broken vase,COMPLAINT
+173,we are so sorry for that Shruthi and we assure you better serive next time,COMPLAINT
+174,"Hello , Jacks",HELP
+174,How to find similar low price products,HELP
+174,"Just click on preferences from low to high cost ,",HELP
+174,you will get the products of those price,HELP
+174,Have you checked with it shruti?,HELP
+174,"Yes,got it",HELP
+174,Thank you,HELP
+175,"Hello , I am pamana.",HELP
+175,Hi,HELP
+175,Hi have question to ask,HELP
+175,Please ask Shweta.,HELP
+175,Are the dates of sale fixed?,HELP
+175,May i know are you referring to Christmas sale dates ?,HELP
+175,Yes... and other sales also,HELP
+175,Throughout the year,HELP
+175,Shruti I am sorry the dates are not yet released . Once it is released we will notify you .,HELP
+175,ok... what are christmas sale dates,HELP
+175,"The dates of this sale too not yet released, I came to know that you are waiting for the sale . Thank you for that . Once it is confirmed , we will surely get to your notification .",HELP
+175,ok,HELP
+175,"please do not worry shweta , you will receiving the many offers for this sale . you will be really be happy on this .",HELP
+175,kk,HELP
+176,Hello Vishakha .Good Evening:),HELP
+176,good Evening,HELP
+176,How may I assist you today?,HELP
+176,I want to know if there is any way to track an order,HELP
+176,You can track any of your order in your order list by opening that order.,HELP
+176,In that you will see option of See Details in tracking area.,HELP
+176,And there is also an option of track your package from there you can check your tracking details.,HELP
+176,Ohk,HELP
+176,Yes Vishakha,HELP
+177,How may I assist you Priti?,COMPLAINT
+177,I have a complaint about relatively low quality of pictures provided than other websites,COMPLAINT
+177,Let me check.,COMPLAINT
+177,As It depends on the sellers that how they upload the pictures of the product.,COMPLAINT
+177,But it is not satisfactory,COMPLAINT
+177,"I am really sorry for that, I have checked our team is shared your concern to the sellers and they are working on it and shortly they will upload new pictures of the products.",COMPLAINT
+177,ok,COMPLAINT
+178,How may I assist you Sarvesh,HELP
+178,Let me know Please,HELP
+178,How can I delete my Amazon account,HELP
+178,May I know why you want to delete the account?,HELP
+178,No,HELP
+178,"Whenever you want to close the accunt you need to contact us, we will provide you link to close the account.",HELP
+178,After that your account will be close within 24 hours.,HELP
+179,"Hi,Ruchi here to help u today!",FAKE
+179,Good Evening :),FAKE
+179,Hi,FAKE
+179,I would like to know new marketing Stratergy of Amazon,FAKE
+179,For the coming year,FAKE
+179,let me check that!,FAKE
+179,Fast Please,FAKE
+179,Stay Connected,FAKE
+179,Go through this link,FAKE
+179,all inforamtion available here,FAKE
+179,regarding marketing startergy of Amazon!,FAKE
+179,https://blog.hubspot.com/marketing/amazon-marketing-strategy,FAKE
+179,Ok,FAKE
+179,What is the thing you have kept secret from the world about your stratergy,FAKE
+179,no idea,FAKE
+179,reagarding it,FAKE
+179,only information available in this link,FAKE
+179,if u need more information then help me with ur phone number so i can arrange call for u,FAKE
+179,"No , Thats fine",FAKE
+179,Ok,FAKE
+179,Ok,FAKE
+180,"Hey! I'm Lavanya , how may I help you today?",FAKE
+180,Hi,FAKE
+180,I want to know if there is any new business plan,FAKE
+180,For amazon business you can go on this,FAKE
+180,https://www.amazon.in/b2b/info/amazon-business?layout=landing&ref_=b2bgoogle_BRac006dnak&gclid=EAIaIQobChMI7JqIuae95gIVGIeGCh1_SgyCEAAYASAAEgLooPD_BwE,FAKE
+180,Ok,FAKE
+180,Do you have any special element that increased your profit,FAKE
+180,We do not have such details Anamika,FAKE
+180,ok,FAKE
+180,Thanks,FAKE
+181,Hi! How can I help you,FAKE
+181,What are the future tie ups planned,FAKE
+181,Sorry We do not have such details Anamika,FAKE
+181,ok,FAKE
+182,Hi.. How may I help you?,FAKE
+182,I like your recommendations,FAKE
+182,They are very relevant,FAKE
+182,Ohh!Thanks,FAKE
+182,Can you tell me the algorithm used for these recommendation system,FAKE
+182,We do not have such information.,FAKE
+182,k,FAKE
+182,"Do you have anything else for me related to Amazon, Account or order?",FAKE
+182,No,FAKE
+183,Hi Aditya:),FAKE
+183,I am Gopal here to help you,FAKE
+183,May i know your concern?,FAKE
+183,Which payment gateway is used on Amazon,FAKE
+183,"Deepak, as i can see Amazon accept all the payments like UPI,credit and debit cards,paytm etc",FAKE
+183,May i know which payment method you are referring for?,FAKE
+183,Net Banking,FAKE
+183,Yes Amazon accept Net banking to,FAKE
+183,You can proceed with that.,FAKE
+183,Where do you store this payment related information,FAKE
+183,Aditya Thank you for staying connected. I highly appreciate your time and patience .,FAKE
+183,Ok,FAKE
+184,Hello Himmat.,FAKE
+184,"I am Mohammed, how can I help you",FAKE
+184,I want to know what are special features of amazon prime,FAKE
+184,Sure just a moment.,FAKE
+184,"FREE One-Day Delivery to eligible addresses. 
+FREE Two-Day delivery to eligible addresses. 
+FREE No-Rush Shipping to eligible addresses and avail Rs.15 cashback. For more details, go to",FAKE
+184,ok,FAKE
+184,What are the future features to be included,FAKE
+184,Other than which are present now,FAKE
+184,Himmat as i have sent your the benefits they all are available to you if you are the prime customer.,FAKE
+184,Ok,FAKE
+184,But is there anything new in future,FAKE
+184,We will update you if there will be any new future will be available if you are the prime customer.,FAKE
+185,"Hi Dikshit, How can I help you",FAKE
+185,Your delivery is much faster,FAKE
+185,How do you manage that,FAKE
+185,You are a very valuable customer to Amazon and it is your satisfaction that we work for.,FAKE
+185,Your business means a lot to us.,FAKE
+185,Thank you,FAKE
+185,Thank you for remaining so positive.,FAKE
+185,But what is it that makes your deliveries faster,FAKE
+185,The delivery will be according to your pin-code and area.,FAKE
+185,And we will always try to satisfy you with our services.,FAKE
+185,What is the specialty of your delivery specific algorithm,FAKE
+185,Dikshit as we are not authorized to provide you such information.,FAKE
+185,ok..I can understand,FAKE
+185,Thank so much for understanding.,FAKE
+186,"I am Sheela, How may I assist you today Durva?",FAKE
+186,How does Amazon invests,FAKE
+186,Durva we are not authorized to share such information which are been related to the process.,FAKE
+186,Fine,FAKE
+186,Thank so much for understanding.,FAKE
+186,"Feel free to reach us back if you have any concern , we will be more than happy to assist you further .",FAKE
+187,Good Evening Alia :),FAKE
+187,What can I do to help you?,FAKE
+187,I want to know if Amazon is planning to surprise customers with additional features?,FAKE
+187,If there will be any offers regarding this we will update you and the offer which are planing further you can able to see in the home page of Amazon.,FAKE
+187,What about the offers which are not on the home page but in planning phase?,FAKE
+187,We Cannot provide you such information due to authorization issues.,FAKE
+187,Hope you will understand,FAKE
+187,Ok,FAKE
+188,"Hi Swapnil, I am Aswin. How can I help you?",FAKE
+188,Hi Ashwin,FAKE
+188,How can I assist you today?,FAKE
+188,I always wonder how you store such big amount of data,FAKE
+188,"Ohh.. thank you Swapnil , your business means alot to us",FAKE
+188,ohh.. Thanks,FAKE
+188,I would like to know how and where is this information stored?,FAKE
+188,Where are the actual servers placed?,FAKE
+188,Sorry Swapnil.. We cannot provide you information related to our internal processes.,FAKE
+188,Hope you would understand,FAKE
+188,Sure. No Problem,FAKE
+188,Bye,FAKE
+189,How I may help you with?,HELP
+189,Please tell me about your refund policies,HELP
+189,"Sure.
+Let me help you with the link of Refund policy.
+Please visit here https://www.amazon.in/gp/help/customer/display.html?nodeId=202111710
+",HELP
+189,Please go here -> REFUND POLICIES,HELP
+189,ok thank you,HELP
+189,Hope I have helped you with your issue now?,HELP
+189,Yes,HELP
+190, Is there anything else I may help you with?  ,FAKE
+190,How are your services better than other shopping sites?,FAKE
+190,We are best online shopping website in the world.,FAKE
+190,And what makes you best?,FAKE
+190,Our services.,FAKE
+190,We are earth's most customer centric company.,FAKE
+190,ok,FAKE
+191,"Hi, Komal  !????? Wish you  a very good evening!",COMPLAINT
+191,"I will be glad to help you today, may I know your issue please??",COMPLAINT
+191,I have a complaint regarding the wireless headset I ordered,COMPLAINT
+191,Komal I can see that the product was delivered to you in the year 2017 the return window expired on 20 November 2019,COMPLAINT
+191,The quality of item is not good as specified by the reviews,COMPLAINT
+191,"Ok Komal, but the product we cannot do anything now because the return window has expired
+window has expired
+window has expired
+window has expired
+",COMPLAINT
+191,"You need to contact Samsung service center for further service details.
+",COMPLAINT
+191,ok...where should I put the details about my complaint?,COMPLAINT
+191,"Komal, you need to contact samsung service center the manufacturer of the product.",COMPLAINT
+191,ok,COMPLAINT
+191,Tell me your state and city name I will search a service center for you,COMPLAINT
+191,"pune, maharashtra",COMPLAINT
+191,Kindly visit this link https://www.samsung.com/in/support/service-center/,COMPLAINT
+191,ok ????,COMPLAINT
+192,Hello Very Good Evening..!! My name is Sunkara?. Hope you are doing great and I'll be happy to help you.,HELP
+192,How to use amazon pay?,HELP
+192,Where else this money can be used?,HELP
+192,As you Account Status is showing as Inactive,HELP
+192,How to activate it?,HELP
+192,Please get registered with the amazon pay.,HELP
+192,how to register?,HELP
+192,Please be online,HELP
+192,Your Account,HELP
+192,Amazon Pay,HELP
+192,You will be asked to provide the valid proof.,HELP
+192,Then your amazon account will be activated with a minimum amount of 10000 rupees.,HELP
+192,Once your kyc is completed you will be activated with amazon pay account.,HELP
+192,What valid proof is required?,HELP
+192,"Pan card, Driving Licence, Passport or voter card.",HELP
+192,ok thanks,HELP
+193,Apart from this is there anything else i can help you wit..?,HELP
+193,How to search for the similar items of selected item?,HELP
+193,Could you please elaborate?,HELP
+193,similar items for the interested item,HELP
+193,Could you please help me with the product which you are referring to?,HELP
+193,Could you please add the product in your cart?,HELP
+193,ok,HELP
+193,Thank you for understanding?,HELP
+193,May I know whether you have added the product?,HELP
+193,Yes,HELP
+193,Please be online,HELP
+193,Amazon Brand - Amazon Brand - Symbol Women's Plain Regular Fit T-Shirt (Pack of 2) (RN-PO2-COMBO1-Black & Red-L,HELP
+193,is this the product you are referring to?,HELP
+193,yes,HELP
+193,Thank you for confirmation.,HELP
+193,please help me find similar products,HELP
+193,Reifica Plain Tshirts for Women Combo Pack of 2-100% Cotton Bio-Washed Womens Half Sleeve Round Neck Tops Combos,HELP
+193,https://www.amazon.in/Reifica-Tshirts-2-100-Cotton-Bio-Washed/dp/B07PCRTZSC/ref=pd_sbs_193_1/260-6715932-7675761?_encoding=UTF8&pd_rd_i=B07PCRTZSC&pd_rd_r=671287fd-5156-4900-a086-4cecec9b0d0a&pd_rd_w=zawOK&pd_rd_wg=k7nMm&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=QVVJ1VKFVD0RGY2JJ82W&refRID=QVVJ1VKFVD0RGY2JJ82W,HELP
+193,https://www.amazon.in/dp/B07PZNJ8SH/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B07PZNJ8SH&pd_rd_w=ztWX9&pf_rd_p=357151f8-058c-46f1-b7d1-fa3647ce3999&pd_rd_wg=k7nMm&pf_rd_r=QVVJ1VKFVD0RGY2JJ82W&pd_rd_r=671287fd-5156-4900-a086-4cecec9b0d0a&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVFU2NUpROEI0M0FOJmVuY3J5cHRlZElkPUEwODM4ODQ1MVRKTjE0UTNUM1lSNiZlbmNyeXB0ZWRBZElkPUEwOTMyMTA4MjhHTlAzSzJJUkFQRSZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=,HELP
+193,ok....any other options,HELP
+193,https://www.amazon.in/Amazon-Brand-Symbol-Regular-T-Shirt/dp/B07Y39QCBT/ref=pd_sbs_193_18?_encoding=UTF8&pd_rd_i=B07Y39QCBT&pd_rd_r=671287fd-5156-4900-a086-4cecec9b0d0a&pd_rd_w=zawOK&pd_rd_wg=k7nMm&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=QVVJ1VKFVD0RGY2JJ82W&refRID=QVVJ1VKFVD0RGY2JJ82W,HELP
+193,Some other,HELP
+193,https://www.amazon.in/dp/B07BHBHVYZ/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07BHBHVYZ&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVUxTMlVGRE1JRlUyJmVuY3J5cHRlZElkPUEwNjE5ODY3MU9VQkdLV043QUNEMyZlbmNyeXB0ZWRBZElkPUEwMTk2NjUxMVkyR0NaVzNLV1FVSyZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=,HELP
+193,https://www.amazon.in/Avaatar-Women-Sleeve-shirt-Combo/dp/B078MQQZBY/ref=pd_sbs_193_4/260-6715932-7675761?_encoding=UTF8&pd_rd_i=B078MQQZBY&pd_rd_r=a9796adc-a317-47e3-8b04-cb2baa43ba5d&pd_rd_w=psdrQ&pd_rd_wg=5Q92e&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=D4R9833FN5Y5JE4S1KN5&refRID=D4R9833FN5Y5JE4S1KN5,HELP
+193,https://www.amazon.in/dp/B07BJL2HRZ/ref=sspa_dk_detail_6?psc=1&pd_rd_i=B07BJL2HRZ&pd_rd_w=B1F07&pf_rd_p=357151f8-058c-46f1-b7d1-fa3647ce3999&pd_rd_wg=sjhjf&pf_rd_r=TSAEZ402Y7K5SFS6RMFV&pd_rd_r=398e1191-d669-40e6-ad24-5aa4783fe4c6&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUU1VOUZMTVM4UElIJmVuY3J5cHRlZElkPUEwNzQ1MTUwMkFWQzg5NU05S1dSWSZlbmNyeXB0ZWRBZElkPUEwNzQxMzU0MjlSTDZSTDVPSFpFNyZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=,HELP
+193,https://www.amazon.in/BLAZZE-Womens-Cotton-Sleeve-T-Shirts/dp/B07YB843QC/ref=pd_sbs_193_7?_encoding=UTF8&pd_rd_i=B07YB843QC&pd_rd_r=398e1191-d669-40e6-ad24-5aa4783fe4c6&pd_rd_w=yWc1J&pd_rd_wg=sjhjf&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=TSAEZ402Y7K5SFS6RMFV&refRID=TSAEZ402Y7K5SFS6RMFV,HELP
+193,https://www.amazon.in/dp/B07PV9DXS5/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B07PV9DXS5&pd_rd_w=8n6mw&pf_rd_p=357151f8-058c-46f1-b7d1-fa3647ce3999&pd_rd_wg=GQXHp&pf_rd_r=KGPS8H1A5JFMZKE2117S&pd_rd_r=1b871a1e-2b65-4b88-b913-33cb6b94d5e1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSENIRVEwMVVJTFVCJmVuY3J5cHRlZElkPUEwOTU1MDU3MzlETFA2STNUMUcxViZlbmNyeXB0ZWRBZElkPUEwOTMyNjY0MjdFSDRURTJMTExWMCZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=,HELP
+193,As You are a valuable customer for us. We will not let you to be dissatisfied with our services and we will help you in each and every issues,HELP
+193,Thank you,HELP
+194,Hi Komal. Logesh here to help you.,HELP
+194,Good Evening.,HELP
+194,How to book a ticket?,HELP
+194,flight ticket,HELP
+194,Thanks for confirming.,HELP
+194,You can access Flight tickets booking option on Amazon from the Amazon Pay dashboard or by searching Flight booking in the product search bar. ,HELP
+194,"Once you’ve reached the booking screen, follow the on-screen instructions. ",HELP
+194,Please be noted that you’ll have to login to your account in order to proceed with the booking.,HELP
+195,Hello!!!,HELP
+195,Good Evening:),HELP
+195,Is it mandatory to take a printout of the ticket for boarding the bus,HELP
+195,You can show your ticket to bus conductor in your phone there is no issue.,HELP
+195,When you book bus ticked you will get PDF format ticket also you can also show them that ticket also,HELP
+195,Ok thanks,HELP
+195,You're most welcome:),HELP
+196,Where will the refund money add and in how many days will I get it back?,HELP
+196,May I know for which refund are we talking?,HELP
+196,General refund for any item I return,HELP
+196,Okay In that your refund will be credit to your original payment mode from which you have paid except COD.,HELP
+196,In COD we can refund amount in your added bank account or in your amazon pay.,HELP
+196,Ok,HELP
+196,Thanks,HELP
+197,Hi! Thanks for contacting us. I'm Amazon's chat helper.,HELP
+197,HP FD236W 32GB USB 2.0 Pen Drive (Gray),HELP
+197,Is this what you need help with?,HELP
+197,"Yes, that's correct",HELP
+197,"Our records show that this item was delivered on Sun, Aug 18.",HELP
+197,How can I help you with this?,HELP
+197,Return or exchange item,HELP
+197,"Unfortunately, this item can't be returned or exchanged now.",HELP
+197,Please read the returns policy for more details.,HELP
+198,"Good evening komal  , Anitha this side. I will be happy to help you.",FAKE
+198,Philips HP8141/00 Dryer (Pink),FAKE
+198,The item is not delivered,FAKE
+198,Order selected ,FAKE
+198,I am sorry to hear that .,FAKE
+198,Please allow me few minutes to check the details for you.,FAKE
+198,Is this very old order ?,FAKE
+198,Order Placed: Sunday 22 November 2015,FAKE
+198,yes,FAKE
+198,May I know the reason for not contacting us for 4 years ?,FAKE
+198,Nothing,FAKE
+198,I am sorry as this is very long back issue to escalate to concern team teh reason should be mentione d.,FAKE
+198,ok,FAKE
